@@ -1,0 +1,4 @@
+name = "test-worktop"
+main = "src/index.ts"
+compatibility_date = "2022-06-21"
+account_id = "5201dcb0af8d19bdf2a57ad7997d6ab3"
